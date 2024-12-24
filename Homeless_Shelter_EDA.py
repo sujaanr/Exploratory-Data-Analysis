@@ -9,8 +9,6 @@ Original file is located at
 # Preparing Dataset
 """
 
-# INF2178 Assignment 1
-
 # Library imports
 import pandas as pd
 import numpy as np
