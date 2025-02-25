@@ -17,10 +17,6 @@ The notebook encompasses several key aspects:
 - **Statistical Testing:** Implementation of ANOVA, Tukey's HSD tests, and t-tests to examine differences across various groups.
 - **Model Diagnostics:** Techniques used to assess the assumptions of linear regression through residual analysis and diagnostic plots.
 
-## Contributing
-
-Your contributions are welcome! Feel free to submit a pull request or open an issue to propose changes or additions.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
